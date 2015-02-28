@@ -73,3 +73,7 @@
 0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:16:08 -0500] "GET /MyDE/VAADIN/themes/valo/shared/img/spinner.gif HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:16:08 -0500] "GET /MyDE/VAADIN/themes/valo/fonts/open-sans/OpenSans-Regular-webfont.woff HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:16:08 -0500] "GET /MyDE/VAADIN/themes/valo/fonts/open-sans/OpenSans-Light-webfont.woff HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:19:28 -0500] "POST /MyDE/HEARTBEAT/?v-uiId=0 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:21:09 -0500] "POST /MyDE/HEARTBEAT/?v-uiId=1 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:24:28 -0500] "POST /MyDE/HEARTBEAT/?v-uiId=0 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2015:23:26:10 -0500] "POST /MyDE/HEARTBEAT/?v-uiId=1 HTTP/1.1" 200 -
